@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2,
+    "name": "Screw Tit",
+    "price": 2000,
+    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repudiandae explicabo maiores aspernatur animi expedita doloribus placeat labore voluptate",
+    "img": "https://i.ibb.co/NTbWHmb/1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Wash Cart",
+    "price": 2000,
+    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repudiandae explicabo maiores aspernatur animi expedita doloribus placeat labore voluptate",
+    "img": "https://i.ibb.co/LzLs6dM/1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Replace Engine",
+    "price": 2000,
+    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repudiandae explicabo maiores aspernatur animi expedita doloribus placeat labore voluptate",
+    "img": "https://i.ibb.co/HFrYRKM/1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Replace Tire",
+    "price": 2000,
+    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repudiandae explicabo maiores aspernatur animi expedita doloribus placeat labore voluptate",
+    "img": "https://i.ibb.co/KbKLzM6/1.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Repair Engine",
+    "price": 2000,
+    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repudiandae explicabo maiores aspernatur animi expedita doloribus placeat labore voluptate",
+    "img": "https://i.ibb.co/KDqp5Tc/1.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Full Tank",
+    "price": 2000,
+    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repudiandae explicabo maiores aspernatur animi expedita doloribus placeat labore voluptate",
+    "img": "https://i.ibb.co/0QfggpT/1.jpg"
+  }
+]
